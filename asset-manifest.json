@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/prakhaarr/agecalc/static/css/main.d6a89d1f.css",
-    "main.js": "/prakhaarr/agecalc/static/js/main.bf47694a.js",
-    "static/js/787.769cedd5.chunk.js": "/prakhaarr/agecalc/static/js/787.769cedd5.chunk.js",
-    "static/media/logo.svg": "/prakhaarr/agecalc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/prakhaarr/agecalc/index.html",
-    "main.d6a89d1f.css.map": "/prakhaarr/agecalc/static/css/main.d6a89d1f.css.map",
-    "main.bf47694a.js.map": "/prakhaarr/agecalc/static/js/main.bf47694a.js.map",
-    "787.769cedd5.chunk.js.map": "/prakhaarr/agecalc/static/js/787.769cedd5.chunk.js.map"
+    "main.css": "/agecalc/static/css/main.d6a89d1f.css",
+    "main.js": "/agecalc/static/js/main.01a92c4f.js",
+    "static/js/787.769cedd5.chunk.js": "/agecalc/static/js/787.769cedd5.chunk.js",
+    "static/media/logo.svg": "/agecalc/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/agecalc/index.html",
+    "main.d6a89d1f.css.map": "/agecalc/static/css/main.d6a89d1f.css.map",
+    "main.01a92c4f.js.map": "/agecalc/static/js/main.01a92c4f.js.map",
+    "787.769cedd5.chunk.js.map": "/agecalc/static/js/787.769cedd5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6a89d1f.css",
-    "static/js/main.bf47694a.js"
+    "static/js/main.01a92c4f.js"
   ]
 }
